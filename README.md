@@ -11,6 +11,17 @@
 
 ### Ignoring the Community (and Contributors)
 
+While yes, listening to the community is important, it is also important to take a certain extent to that. The higher ups should not give in to "dumber" ideas (such as battle passes), but consider ideas that actually improve the game, whether it could be the redesign of an obstacle, a new but interesting weapon, a rearrangement of the layout of a building, etc. The main issue is, that is never the case. It is only mostly the higher ups having the **veto power** for the decisions of the game, instead of having the contributors at least have some input.
+
+Contributors of the game are one of the most important people of the project, yet **they neglect them**. Such issues are (but not limited to):
+
+- Not making `#dev-private` read-only for Designrs (they literally know the content of the next update, there is no harm in telling them the implementation details)
+- Allowing **the developers of the game** -- the people who implement features of the game for you -- to at least have their input considered
+  - The HP-18 nerf
+  - The Barrett damage value
+- The very inconsistent art style that applies to most obstacles in game (main exception are guns, massive credit to eiπ for doing that)
+- The 3+ meme languages in the game's translations file (one was already enough and that one was intended to be for testing purposes, but kept for fun)
+
 ### The 123OP Situation
 
 [Video Link](https://www.youtube.com/watch?v=27HQq6dNqKw)
@@ -25,6 +36,34 @@ Despite the owners of Suroi having a disapproval of what content Kongregate adde
 
 The skins and emotes of this game blatantly copy the same designs Kongregate made for Surviv.io.
 
+**Skin Examples**
+| Suroi.io | Kongregate |
+| ----- | ----- |
+| Forest Camo | Military |
+| Twilight Zone | Sunset (note that Suroi also has a skin named "Sunset") |
+| Zebra | Zebra |
+| Fireball (removed) | Fireball |
+| Beacon | Lasr Disk |
+| Volcanic | Magmatic |
+| Ashfall | Cold Magma |
+| Tiger | Bengal |
+
+**Emote Examples**
+
+| Suroi.io | Kongregate |
+| ----- | ----- |
+| Troll Face | Trollface |
+| ez | Easy |
+| oof | Oof |
+| Skull | To Be, Or Not? |
+| Creepy Clown | Clown |
+| Vomiting Face | Puke |
+| Lying Face | Lies |
+| Frustrated Face | Frustration |
+| Greedy Face | Greedy |
+| Sweating Face | Sweaty |
+| Nervous Face | ITS OK |
+
 ### Unoriginality
 
 The game deviates from its precursor -- Surviv.io -- at a small degree. This is an issue that has caused the very unchanging player count.
@@ -35,7 +74,7 @@ The game deviates from its precursor -- Surviv.io -- at a small degree. This is 
 
 ### Lack of Well Written Rules
 
-The Suroi.io Discord guild only has **five unclear rules**. While it is understandable that writing a code of conduct for the community is difficult and tedious, most large open source projects just use a [template](https://www.contributor-covenant.org/) that is concise, accessible and simple to enforce as expectations are clear to everyone.
+The Suroi.io Discord guild only has **five unclear rules**. While it is understandable that writing a code of conduct for the community is difficult and tedious, most large open source projects just use a [template](https://www.contributor-covenant.org/) that is concise, accessible and simple to enforce as expectations are clear to everyone. Even without using the template, the `#mod-guidelines` channel that is hidden to the public is already a better version of the current rules, it just needs to be adjusted.
 
 ### Double Standards for Moderators and Community Members
 
