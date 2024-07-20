@@ -157,7 +157,7 @@ While it is fine messing around with your permissions for fun as an interaction 
 - Bienstar
 - Meower
 - Kenos
-- 3 anonymous signers
+- 4 anonymous signers
 
 ## Credits and Inspiration
 
