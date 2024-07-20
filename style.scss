@@ -30,12 +30,24 @@ article {
   }
 
   table {
-    width: 100%;
+    width: inherit;
     border-collapse: collapse;
 
     th, td {
       padding: 0.5rem;
       border: 1px solid $text;
     }
+  }
+
+  img {
+    max-width: inherit;
+  }
+
+  blockquote {
+    width: inherit;
+    background: hsla(0, 0%, 0%, 10%);
+    margin-left: 0px;
+    padding: 0.5rem;
+    border-left: 2px solid $text;
   }
 }

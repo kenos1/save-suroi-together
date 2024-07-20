@@ -22,6 +22,8 @@ const template = (/** @type {string} */ content) => `
     <title>Open Letter to Suroi.io</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="An Open Letter to the Owners of Suroi.io">
+    <meta property="og:description" content="A discussion about the management issues concerning Suroi.io and how those issues can be fixed.">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>

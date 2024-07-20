@@ -2,6 +2,10 @@
 
 *An open letter to the Suroi.io owner and co-owner (WORK IN PROGRESS)*
 
+**TL;DR**: There are management issues within the development team of Suroi and Kongregate content is accepted by hypocritical owners.
+
+> **ATTENTION**: If you are unable to read this letter with an open mind, we recommend closing this tab.
+
 <ul id="contents">
   <noscript>The glossary needs JavaScript to be displayed. Sorry :/</noscript>
 </ul>
@@ -23,17 +27,21 @@ While yes, listening to the community is important, it is also important to take
 Contributors of the game are one of the most important people of the project, yet **they neglect them**. Such issues are (but not limited to):
 
 - Not making `#dev-private` read-only for Designrs (they literally know the content of the next update, there is no harm in telling them the implementation details)
-- Allowing **the developers of the game** -- the people who implement features of the game for you -- to at least have their input considered
-  - The HP-18 nerf (none of the actual developer team approved this)
-  - The Barrett damage value (only one person had the veto power to set the damage value to a specific number)
+- Ignoring **the developers and artists of the game** -- the people who implement features of the game for you -- to have their input considered,
+  - The [HP-18 nerf](https://github.com/HasangerGames/suroi/commit/0d8d6eafba2de557d3465bf0875d6eec34fa4c2c) (none of the actual developer team approved this)
+  - The [Barrett damage value](https://github.com/HasangerGames/suroi/commit/1cd3f96b85e8f0600fa0d09dce530e41630d5801) (only one person had the veto power to set the damage value to a specific number)
+  - Skins like [Watermelon being added](https://github.com/HasangerGames/suroi/commit/857479c69e630be1159cd9f83af970ca4320bffc) (artists were not consulted on the addition of the skin)
 - The very inconsistent art style that applies to most obstacles in game (main exception are guns, massive credit to eiπ for keeping guns consistent)
 - The 3+ meme languages in the game's translations file (one was already enough and that one was intended to be for testing purposes, but kept for fun)
+- A disconnect between the artists, the developers and the owners of the game. No one knows who is doing what.
+
+![Abomination](https://cdn.discordapp.com/attachments/239514717867999232/1179550697235161158/image.png?ex=669ce3f1&is=669b9271&hm=a741536921c185a141521f58de5651fcc13976a74a2b2145953d1848556014c0&)
 
 ### The 123OP Situation
 
 This situation concerns the [v0.10.0 trailer](https://www.youtube.com/watch?v=Ccl9qnryAT8). The former trailer editor, 123OP, had his trailer edited without his consent.
 
-This is a problem because he never intended it to have the NCS music choice in the video, which ruined the video's sync. It illustrates how inconsiderate the owners of the game are treating the contributors of the game. Consequently, he also quitted editing videos for the game's trailer, which is a real shame as his editing was good.
+This is a problem because he never intended it to have the NCS music choice in the video, which ruined the video's sync. It illustrates how inconsiderate the owners of the game are treating the contributors of the game. Consequently, he also quit editing videos for the game's trailer, which is a real shame as his editing was good.
 
 [Video Link](https://www.youtube.com/watch?v=27HQq6dNqKw)
 
@@ -41,7 +49,7 @@ This is a problem because he never intended it to have the NCS music choice in t
 
 If the community ever wanted to know why updates are so rushed and buggy, here's why.
 
-The development team imposes "deadlines" on the whole team by publicly announcing to the community that the next update will be released at a specific date. While this may seem fine, Suroi is **completely ran by volunteers**. These volunteers have limited time to work on the game, and adding even more pressure on them by giving empty promises to the community unsurprisingly stresses out them even more. Working on Suroi.io isn't a job where you are paid money, you are paid with experience and fun, and that is completely killed by this stress. There is no wonder why top contributors of the project have quit developing the game.
+The development team imposes "deadlines" on the whole team by publicly announcing to the community that the next update will be released at a specific date. While this may seem fine, Suroi is **completely ran by volunteers**. These volunteers have limited time to work on the game, and adding even more pressure on them by giving empty promises to the community unsurprisingly stresses out them even more. Working on Suroi.io isn't a job where you are paid money, you are paid with experience and fun, and that is completely killed by this stress. There is no wonder why top contributors of the project have quit developing the game due to **mental health issues**.
 
 As an added bonus, there is a pinned message posted months ago in `#dev-private` that explicitly said to not give empty promises about updates to the community. Did that actually change anything?
 
@@ -83,7 +91,7 @@ The skins and emotes of this game blatantly copy the same designs Kongregate mad
 
 ### Unoriginality
 
-The game deviates from its precursor -- Surviv.io -- at a small degree. This is an issue that has caused the very unchanging player count. The game mostly depends on the former Surviv.io playerbase, and those people do not have an incentive to play Suroi if Resurviv has the original content **and** Suroi's content is much more bland and empty.
+The game deviates from its precursor -- Surviv.io -- at a small degree. This is an issue that has caused the very unchanging player count. The game mostly depends on the former Surviv.io playerbase, and those people do not have an incentive to play Suroi if Resurviv has the original content and Suroi's content is **the same but bland and empty**.
 
 **Glaring Examples**
 | Suroi.io | Surviv.io | Similarities |
@@ -92,12 +100,11 @@ The game deviates from its precursor -- Surviv.io -- at a small degree. This is 
 | Green House | Barn | Same color, similar size |
 | Port | Docks | Same idea, gun equivalents are the same |
 | Maul & Flint Stone | Stone Hammer & Eye Crate | The same concept |
-| LMGs | LMGs | Equivalent guns but some of the ammo types are swapped and capacities adjusted |
 | Headquarters | Mansion | Giant house-like building with a basement |
 | Gardening Facility | Chrysanthemum Bunker | A botanic building with a bunker |
 | Construction Site | Hydra Bunker | Suroi's variant is soon to be the equivalent of the Hydra Bunker |
 
-**This does not mean Suroi should at least take some inspiration from Surviv**. Some ideas such as grenades, realistic guns and similar gameplay mechanics are fine. It is the content that feels like a spit in the face for former Surviv players. There are actually unique ideas that enhanced the game, such as
+**This does not mean Suroi should at least take some inspiration from Surviv**. Some ideas such as grenades, realistic guns and similar gameplay mechanics are fine. It is the content that feels like a spit in the face for former Surviv players. This is because Suroi's content is not as well polished and designed as Surviv's. There are actually unique ideas that enhanced the game, such as
 
 - The armory. It is a fun point of interest that attracts a lot of players. Some design choices are questionable but it is very well rounded.
 - The old red house. The layout is more fun than the current red house.
@@ -115,7 +122,6 @@ If it wasn't obvious, Kongregate features are discouraged. Fortunately landmines
 It is also crystal clear that even the Designrs don't want landmines added to the game, as evidenced by their attitude towards having to draw art for it:
 
 ![An artist's attitude towards this situation](https://cdn.discordapp.com/attachments/1262916594997268594/1264079950936408124/image.png?ex=669c91b1&is=669b4031&hm=bacccbc4527900afe3b699647f25a0181a3485884337ca405ce281bed620e5f1&)
-
 ## Community and Discord Guild Issues
 
 ### Lack of Well Written Rules
@@ -126,6 +132,13 @@ The Suroi.io Discord guild only has **five unclear rules**. While it is understa
 
 With the ambiguous rules set in place for the community, there are clear double standards between the moderators of the guild and its regular members. Some moderators are extremely toxic to the members of the community.
 
+There are also other places where moderators abuse their powers, such as:
+- Giving themselves contributor roles that they do not deserve.
+- Using channels such as `#leeks` inappropriately.
+- Changing role permissions without consulting anyone else
+
+While it is fine messing around with your permissions for fun as an interaction with the community, there is an extent where it is actually harmful. But sadly some moderators of the Suroi.io community don't understand that extent.
+
 ## Closing Thoughts
 
 - We know this will be censored by the moderation team by configuring Discord Automod.
@@ -133,6 +146,7 @@ With the ambiguous rules set in place for the community, there are clear double 
 - **This letter is not intended to create drama**. The main purpose of writing this letter is to shed a light on the issues of Suroi's management, and how it can be improved in the future.
 - The intended purpose of this letter is to raise awareness of issues in the Suroi.io community.
 - This letter will most likely be either bashed on or ignored by the owners of the game.
+- **It is up to the owners of Suroi.io to change to make the game better**
 
 ---
 
@@ -141,6 +155,7 @@ With the ambiguous rules set in place for the community, there are clear double 
 *If you want your name on this list, make an issue or a pull request at the [Github](https://github.com/kenos1/save-suroi-together). If you want to sign anonymously, direct message `bien.star` on Discord.*
 
 - Bienstar
+- Meower
 - Kenos
 - 3 anonymous signers
 
