@@ -2,8 +2,8 @@
 
 (() => {
   const headers = document.querySelectorAll("h2, h3, h4, h5, h6");
-  const glossary = document.getElementById("glossary");
-  glossary.innerHTML = `<b>Glossary</b>`
+  const glossary = document.getElementById("contents");
+  glossary.innerHTML = `<b>Contents</b>`
   headers.forEach(element => {
     const idString = element.innerText.toLowerCase().replaceAll(" ", "-");
     element.id = idString;

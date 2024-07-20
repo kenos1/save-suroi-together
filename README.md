@@ -2,11 +2,17 @@
 
 *An open letter to the Suroi.io owner and co-owner (WORK IN PROGRESS)*
 
-<ul id="glossary">
+<ul id="contents">
   <noscript>The glossary needs JavaScript to be displayed. Sorry :/</noscript>
 </ul>
 
 ## Introduction
+
+With the recent events happening at July 2024, Suroi.io has quite frankly, became a "shit show". These issues also stem back months before. This letter will explain:
+
+- What issues Suroi.io has,
+- why these issues are happening,
+- and how things can be changed in the future for further improvement and growth.
 
 ## Management Issues
 
@@ -18,12 +24,16 @@ Contributors of the game are one of the most important people of the project, ye
 
 - Not making `#dev-private` read-only for Designrs (they literally know the content of the next update, there is no harm in telling them the implementation details)
 - Allowing **the developers of the game** -- the people who implement features of the game for you -- to at least have their input considered
-  - The HP-18 nerf
-  - The Barrett damage value
+  - The HP-18 nerf (none of the actual developer team approved this)
+  - The Barrett damage value (only one person had the veto power to set the damage value to a specific number)
 - The very inconsistent art style that applies to most obstacles in game (main exception are guns, massive credit to eiπ for keeping guns consistent)
 - The 3+ meme languages in the game's translations file (one was already enough and that one was intended to be for testing purposes, but kept for fun)
 
 ### The 123OP Situation
+
+This situation concerns the [v0.10.0 trailer](https://www.youtube.com/watch?v=Ccl9qnryAT8). The former trailer editor, 123OP, had his trailer edited without his consent.
+
+This is a problem because he never intended it to have the NCS music choice in the video, which ruined the video's sync. It illustrates how inconsiderate the owners of the game are treating the contributors of the game. Consequently, he also quitted editing videos for the game's trailer, which is a real shame as his editing was good.
 
 [Video Link](https://www.youtube.com/watch?v=27HQq6dNqKw)
 
@@ -73,7 +83,25 @@ The skins and emotes of this game blatantly copy the same designs Kongregate mad
 
 ### Unoriginality
 
-The game deviates from its precursor -- Surviv.io -- at a small degree. This is an issue that has caused the very unchanging player count.
+The game deviates from its precursor -- Surviv.io -- at a small degree. This is an issue that has caused the very unchanging player count. The game mostly depends on the former Surviv.io playerbase, and those people do not have an incentive to play Suroi if Resurviv has the original content **and** Suroi's content is much more bland and empty.
+
+**Glaring Examples**
+| Suroi.io | Surviv.io | Similarities |
+| ----- | ----- | ----- |
+| Small Red House | Red House | Same color, similar size |
+| Green House | Barn | Same color, similar size |
+| Port | Docks | Same idea, gun equivalents are the same |
+| Maul & Flint Stone | Stone Hammer & Eye Crate | The same concept |
+| LMGs | LMGs | Equivalent guns but some of the ammo types are swapped and capacities adjusted |
+| Headquarters | Mansion | Giant house-like building with a basement |
+| Gardening Facility | Chrysanthemum Bunker | A botanic building with a bunker |
+| Construction Site | Hydra Bunker | Suroi's variant is soon to be the equivalent of the Hydra Bunker |
+
+**This does not mean Suroi should at least take some inspiration from Surviv**. Some ideas such as grenades, realistic guns and similar gameplay mechanics are fine. It is the content that feels like a spit in the face for former Surviv players. There are actually unique ideas that enhanced the game, such as
+
+- The armory. It is a fun point of interest that attracts a lot of players. Some design choices are questionable but it is very well rounded.
+- The old red house. The layout is more fun than the current red house.
+- Using boats for special loot. This is actually quite interesting, but they don't attract players well and have questionable designs. (like the Gas Can and Generator)
 
 ### Landmines
 
@@ -100,10 +128,9 @@ With the ambiguous rules set in place for the community, there are clear double 
 
 ## Closing Thoughts
 
-We want this letter so we can 
-
 - We know this will be censored by the moderation team by configuring Discord Automod.
 - **This is not a letter of harassment**. We do not tolerate the harassment of the people mentioned and criticized in this letter, and the people who signed this letter.
+- **This letter is not intended to create drama**. The main purpose of writing this letter is to shed a light on the issues of Suroi's management, and how it can be improved in the future.
 - The intended purpose of this letter is to raise awareness of issues in the Suroi.io community.
 - This letter will most likely be either bashed on or ignored by the owners of the game.
 
