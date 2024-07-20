@@ -56,4 +56,4 @@ With the ambiguous rules set in place for the community, there are clear double 
 
 - Bienstar
 - Kenos
-- 2 anonymous signers
+- 3 anonymous signers
