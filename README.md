@@ -18,7 +18,7 @@ With the recent events happening at July 2024, Suroi.io has quite frankly, becam
 - why these issues are happening,
 - and how things can be changed in the future for further improvement and growth.
 
-  Please note that this letter should in no way be construed as a personal attack on any member of the Suroi team or community. For the most part, they are all very nice and talented people, who are not acting with intentional malice. The combination of poor communication, hubris, and confusing messaging has made development into a complete mess regardless. We wouldn't be writing this letter however, if we didn't sincerely care about the project and want to see it succeed. Please keep that in mind as you read on. 
+Please note that this letter should in no way be construed as a personal attack on any member of the Suroi team or community. For the most part, they are all very nice and talented people, who are not acting with intentional malice. The combination of poor communication, hubris, and confusing messaging has made development into a complete mess regardless. We wouldn't be writing this letter however, if we didn't sincerely care about the project and want to see it succeed. Please keep that in mind as you read on. 
 
 ## Management Issues
 
@@ -112,7 +112,9 @@ The game deviates from its precursor -- Surviv.io -- at a small degree. This is 
 - The old red house. The layout is more fun than the current red house.
 - Using boats for special loot. This is actually quite interesting, but they don't attract players well and have questionable designs. (like the Gas Can and Generator)
 
-### Landmines
+### Landmines (Resolved)
+
+> This section is outdated as landmines are no longer being added to the game. We would like to put our thanks to eiπ for getting them out of the game!
 
 If it wasn't obvious, Kongregate features are discouraged. Fortunately landmines will be added to this game, like they were in [Surviv.io](https://survivio.fandom.com/wiki/Mine)! If the developers didn't remember what post-Kongregate Surviv.io was like, these sucked for the following reasons,
 
