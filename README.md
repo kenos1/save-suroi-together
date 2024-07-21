@@ -159,7 +159,10 @@ While it is fine messing around with your permissions for fun as an interaction 
 - Bienstar
 - Meower
 - Kenos
-- 4 anonymous signers
+- Anonymous
+- Anonymous
+- Anonymous
+- Anonymous
 
 ## Credits and Inspiration
 
