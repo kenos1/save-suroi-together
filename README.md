@@ -18,6 +18,8 @@ With the recent events happening at July 2024, Suroi.io has quite frankly, becam
 - why these issues are happening,
 - and how things can be changed in the future for further improvement and growth.
 
+  Please note that this letter should in no way be construed as a personal attack on any member of the Suroi team or community. For the most part, they are all very nice and talented people, who are not acting with intentional malice. The combination of poor communication, hubris, and confusing messaging has made development into a complete mess regardless. We wouldn't be writing this letter however, if we didn't sincerely care about the project and want to see it succeed. Please keep that in mind as you read on. 
+
 ## Management Issues
 
 ### Ignoring the Community (and Contributors)
