@@ -120,6 +120,7 @@ If it wasn't obvious, Kongregate features are discouraged. Fortunately landmines
 - They can be placed in concealable cover, which makes them even harder to spot.
 - Mines can be stacked on one another, further concentrating the damage in a specific area. This could potentially produce unfair "one-shots".
 - Because of the above factors, it makes the game more unfair, making the player feel like it is the **game's fault** for dying or losing.
+- Additionally, one of the **only** features that people liked about landmines was their tactical potential by throwing them and then detonating by shooting, which many legacy players expressed an enjoyment of in 1v1s. The decision was made with no consensus to scrap this, and severly nerf the throwing distance, meaning that only the passive (and more hated) passive use is an option. 
 
 It is also crystal clear that even the Designrs don't want landmines added to the game, as evidenced by their attitude towards having to draw art for it:
 
@@ -143,11 +144,9 @@ While it is fine messing around with your permissions for fun as an interaction 
 
 ## Closing Thoughts
 
-- We know this will be censored by the moderation team by configuring Discord Automod.
 - **This is not a letter of harassment**. We do not tolerate the harassment of the people mentioned and criticized in this letter, and the people who signed this letter.
 - **This letter is not intended to create drama**. The main purpose of writing this letter is to shed a light on the issues of Suroi's management, and how it can be improved in the future.
 - The intended purpose of this letter is to raise awareness of issues in the Suroi.io community.
-- This letter will most likely be either bashed on or ignored by the owners of the game.
 - **It is up to the owners of Suroi.io to change to make the game better**
 
 ---
