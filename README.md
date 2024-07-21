@@ -141,6 +141,7 @@ There are also other places where moderators abuse their powers, such as:
 - Giving themselves contributor roles that they do not deserve.
 - Using channels such as `#leeks` inappropriately.
 - Changing role permissions without consulting anyone else
+- Impulsivley imposing punishments without justification based on the rules or oversight. 
 
 While it is fine messing around with your permissions for fun as an interaction with the community, there is an extent where it is actually harmful. But sadly some moderators of the Suroi.io community don't understand that extent.
 
