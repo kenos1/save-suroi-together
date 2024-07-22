@@ -36,8 +36,13 @@ Contributors of the game are one of the most important people of the project, ye
 - The very inconsistent art style that applies to most obstacles in game (main exception are guns, massive credit to eiπ for keeping guns consistent)
 - The 3+ meme languages in the game's translations file (one was already enough and that one was intended to be for testing purposes, but kept for fun)
 - A disconnect between the artists, the developers and the owners of the game. No one knows who is doing what.
+- Putting serious game design decisions up to a general poll, with people whose judgement is questionable, rather than a discussion among contributors.
 
 ![Abomination](https://cdn.discordapp.com/attachments/239514717867999232/1179550697235161158/image.png?ex=669ce3f1&is=669b9271&hm=a741536921c185a141521f58de5651fcc13976a74a2b2145953d1848556014c0&)
+
+### A Vicious Cycle
+
+Related to the issue above, the overall poor communication between contributors and the community leads to a dangerous cycle. The community is not kept updated on development, release dates are constantly pushed back, and as a result of this the community becomes desperate for content, and more likely to vote yes on any poll for new content, regardless of quality. Then, as the overall consistency and quality of the game deteriorates, even more questionable content is pushed for by the community. This leads to the community being very receptive to features like mines or flutes, which in a more transparent development situation they might have second thoughts about. The remedy for this is simply to be more open to the community about what's going on in development, and not to promise features or release dates that can't be kept. In an open-source, community project like Suroi, there's no excuse for secrecy. 
 
 ### The 123OP Situation
 
@@ -132,6 +137,8 @@ It is also crystal clear that even the Designrs don't want landmines added to th
 ### Lack of Well Written Rules
 
 The Suroi.io Discord guild only has **five unclear rules**. While it is understandable that writing a code of conduct for the community is difficult and tedious, most large open source projects just use a [template](https://www.contributor-covenant.org/) that is concise, accessible and simple to enforce as expectations are clear to everyone. Even without using the template, the `#mod-guidelines` channel that is hidden to the public is already a better version of the current rules, it just needs to be adjusted.
+
+Additionaly, having a rule that states moderators can punish users for "any reason" is extremely problematic, as it encourages them to use their power in any way they see fit, rather than conforming to certain guidelines, which is their actual job. Rule 5 allows them to, for instance, mute users for disagreeing with them, which is a blatant overstep. 
 
 ### Double Standards for Moderators and Community Members
 
