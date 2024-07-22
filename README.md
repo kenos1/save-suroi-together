@@ -46,7 +46,7 @@ Related to the issue above, the overall poor communication between contributors 
 
 ### The 123OP Situation
 
-This situation concerns the [v0.10.0 trailer](https://www.youtube.com/watch?v=Ccl9qnryAT8). The former trailer editor, 123OP, had his trailer edited without his consent.
+This situation concerns the [v0.10.0 trailer](https://www.youtube.com/watch?v=Ccl9qnryAT8). The former trailer editor, 123OP, had his trailer edited and then released without his permission.
 
 This is a problem because he never intended it to have the NCS music choice in the video, which ruined the video's sync. It illustrates how inconsiderate the owners of the game are treating the contributors of the game. Consequently, he also quit editing videos for the game's trailer, which is a real shame as his editing was good.
 
@@ -172,12 +172,13 @@ While it is fine messing around with your permissions for fun as an interaction 
 - Headphones Pig
 - Kenos
 - Leia
+- Hugh Jass
 - Kaklik
 - Anonymous
 - Anonymous
 - Anonymous
 - Anonymous
--Anonymous
+- Anonymous
 ## Credits and Inspiration
 
 - [Save Nix Together](https://save-nix-together.org)
