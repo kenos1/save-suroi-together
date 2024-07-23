@@ -166,7 +166,9 @@ While it is fine messing around with your permissions for fun as an interaction 
 *If you want your name on this list, make an issue or a pull request at the [Github](https://github.com/kenos1/save-suroi-together). If you want to sign anonymously, direct message `bien.star` on Discord.*
 
 - Bienstar
+- 109
 - Meower
+- TTGetDunkedOn
 - 123OP
 - Yuyu/Lsis
 - Headphones Pig
