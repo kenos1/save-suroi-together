@@ -178,6 +178,8 @@ While it is fine messing around with your permissions for fun as an interaction 
 - Hugh Jass
 - Kaklik
 - XVC
+- L420
+- hk-ball
 - Anonymous
 - Anonymous
 - Anonymous
