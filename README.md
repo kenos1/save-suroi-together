@@ -182,6 +182,8 @@ While it is fine messing around with your permissions for fun as an interaction 
 - hk-ball
 - Ukraines Dude
 - NAMERIO
+- Cobby
+- Nora
 - Anonymous
 - Anonymous
 - Anonymous
