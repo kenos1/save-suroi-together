@@ -176,6 +176,7 @@ While it is fine messing around with your permissions for fun as an interaction 
 - Headphones Pig
 - Hugh Jass
 - Cobby
+- Slapdap
 - 123OP
 - Yuyu/Lsis
 - L420
@@ -188,6 +189,7 @@ While it is fine messing around with your permissions for fun as an interaction 
 - hk-ball
 - Nora
 - MP220_YT
+- Hannover85
 - Anonymous (x4)
 
 ## Credits and Inspiration
