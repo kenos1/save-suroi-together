@@ -165,32 +165,31 @@ While it is fine messing around with your permissions for fun as an interaction 
 
 *If you want your name on this list, make an issue or a pull request at the [Github](https://github.com/kenos1/save-suroi-together). If you want to sign anonymously, direct message `bien.star` on Discord.*
 
-- Bienstar
-- 109
-- Meower
+- Leia
 - TTGetDunkedOn
+- 109
+- Cyby
+- Kenos
+- Kaklik
+- Bienstar
+- Meower
+- Headphones Pig
+- Hugh Jass
+- Cobby
 - 123OP
 - Yuyu/Lsis
-- Headphones Pig
-- Kenos
-- Leia
-- Preacher
-- Hugh Jass
-- Kaklik
-- XVC
 - L420
-- hk-ball
+- IOMAN
+- XNOR
 - Ukraines Dude
 - NAMERIO
-- Cobby
+- Preacher
+- XVC
+- hk-ball
 - Nora
-- Cyby
-- XNOR
 - MP220_YT
-- Anonymous
-- Anonymous
-- Anonymous
-- Anonymous
+- Anonymous (x4)
+
 ## Credits and Inspiration
 
 - [Save Nix Together](https://save-nix-together.org)
