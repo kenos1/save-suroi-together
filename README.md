@@ -190,6 +190,7 @@ While it is fine messing around with your permissions for fun as an interaction 
 - Nora
 - MP220_YT
 - Hannover85
+- NetGoatFr
 - Anonymous (x4)
 
 ## Credits and Inspiration
