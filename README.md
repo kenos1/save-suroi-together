@@ -38,6 +38,7 @@ Contributors of the game are one of the most important people of the project, ye
 - A disconnect between the artists, the developers and the owners of the game. No one knows who is doing what.
 - Putting serious game design decisions up to a general poll, with people whose judgement is questionable, rather than a discussion among contributors.
 
+![bureaucracy!!!!](https://github.com/user-attachments/assets/d1bb69da-7cd9-45fc-980c-080c43af822f)
 ![Abomination](https://cdn.discordapp.com/attachments/239514717867999232/1179550697235161158/image.png?ex=669ce3f1&is=669b9271&hm=a741536921c185a141521f58de5651fcc13976a74a2b2145953d1848556014c0&)
 
 ### A Vicious Cycle
